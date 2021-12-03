@@ -6,8 +6,6 @@ app.set('view engine', 'ejs')
 var port = process.env.PORT || 3002;
 var path = require('path');
 
-
-
 app.set('view engine','ejs')
 
 
