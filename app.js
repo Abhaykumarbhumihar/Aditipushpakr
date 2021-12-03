@@ -8,7 +8,7 @@ var path = require('path');
 
 app.set('view engine','ejs')
 
- app.use('/images', express.static(path.join(__dirname, 'view/images')))
+ app.use('/images', express.static(path.join(__dirname, '/')))
 
 app.get("/", urlencoded, function (req, res) {
      res.render('newnav')
