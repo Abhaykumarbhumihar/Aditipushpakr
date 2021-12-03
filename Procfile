@@ -1,1 +1,1 @@
-web: node mongoexaple.js
+web: node app.js
