@@ -1,0 +1,28 @@
+{
+  "name": "html-css-resume-master",
+  "version": "1.0.0",
+  "description": "Nearly every project built for the web relies on HTML, as its foundation. It defines the structure of a page, while CSS defines its style. HTML and CSS are the beginning of everything that we need to know to make our first web page.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Abhaykumarbhumihar/Aditipushpakr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhaykumarbhumihar/Aditipushpakr/issues"
+  },
+  "homepage": "https://github.com/Abhaykumarbhumihar/Aditipushpakr#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongodb": "^4.2.0",
+    "mongoose": "^6.0.13",
+    "nodemailer": "^6.7.1",
+    "pure-css-loader": "^3.3.3"
+  }
+}
