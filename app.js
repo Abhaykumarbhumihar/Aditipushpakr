@@ -8,16 +8,6 @@ var path = require('path');
 
 app.set('view engine','ejs')
 
-
-
-
-
-
-
-
-     
-
-
  app.use('/images', express.static(path.join(__dirname, 'view/images')))
 //app.use('/', express.static(path.join(__dirname, 'view')))
 
